@@ -19,7 +19,7 @@
 
 ```
 git clone https://github.com/GENxSOLAR/Smart-Contract-Lottery-Raffle-.git
-cd Smart-Contract-Lottery-Raffle-
+cd Smart-Contract-Lottery-Raffle--main
 yarn
 ```
 
